@@ -9,7 +9,8 @@ An AI-based smart expense analyzer that features OCR receipt scanning, Voice Inp
 
 1. **Navigate to the core project directory:**
    ```bash
-   cd /Users/lavanyagosain/.gemini/antigravity/scratch/smart-expense-analyzer
+   git clone https://github.com/LAVANYA-GOSAIN/Smart_Expense_Analyzer.git
+   cd Smart_Expense_Analyzer
    ```
 
 2. **Activate the Virtual Environment:**
